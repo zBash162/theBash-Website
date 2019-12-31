@@ -3,11 +3,11 @@ margin: 2px;
 padding: 0;
 }
 
-body {
-background: #7289da;
-padding 20px;
+header {
+color: #99aab5;
+padding: 5;
 }
 
-header {
-color: #99aab5
+update {
+color: #7289da
 }
