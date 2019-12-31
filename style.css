@@ -1,13 +1,9 @@
 * {
-margin: 2px;
+margin: 2;
 padding: 0;
 }
 
 header {
-color: #99aab5;
+background: #99aab5;
 padding: 5;
-}
-
-update {
-color: #7289da
 }
